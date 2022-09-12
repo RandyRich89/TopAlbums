@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Albums</string>
+
+<!--    Dialogs-->
+    <string name="no_data_title">No Data Found</string>
+    <string name="no_data_message">No data was found for the top 100 Albums</string>
+    <string name="no_data_retry_btn">Retry Search?</string>
+    <string name="no_data_cancel_btn">Cancel</string>
+</resources>
